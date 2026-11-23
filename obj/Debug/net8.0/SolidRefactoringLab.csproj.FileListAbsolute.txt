@@ -1,0 +1,14 @@
+/Users/divineco/SolidRefactoringLab/bin/Debug/net8.0/SolidRefactoringLab
+/Users/divineco/SolidRefactoringLab/bin/Debug/net8.0/SolidRefactoringLab.deps.json
+/Users/divineco/SolidRefactoringLab/bin/Debug/net8.0/SolidRefactoringLab.runtimeconfig.json
+/Users/divineco/SolidRefactoringLab/bin/Debug/net8.0/SolidRefactoringLab.dll
+/Users/divineco/SolidRefactoringLab/bin/Debug/net8.0/SolidRefactoringLab.pdb
+/Users/divineco/SolidRefactoringLab/obj/Debug/net8.0/SolidRefactoringLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/divineco/SolidRefactoringLab/obj/Debug/net8.0/SolidRefactoringLab.AssemblyInfoInputs.cache
+/Users/divineco/SolidRefactoringLab/obj/Debug/net8.0/SolidRefactoringLab.AssemblyInfo.cs
+/Users/divineco/SolidRefactoringLab/obj/Debug/net8.0/SolidRefactoringLab.csproj.CoreCompileInputs.cache
+/Users/divineco/SolidRefactoringLab/obj/Debug/net8.0/SolidRefactoringLab.dll
+/Users/divineco/SolidRefactoringLab/obj/Debug/net8.0/refint/SolidRefactoringLab.dll
+/Users/divineco/SolidRefactoringLab/obj/Debug/net8.0/SolidRefactoringLab.pdb
+/Users/divineco/SolidRefactoringLab/obj/Debug/net8.0/SolidRefactoringLab.genruntimeconfig.cache
+/Users/divineco/SolidRefactoringLab/obj/Debug/net8.0/ref/SolidRefactoringLab.dll

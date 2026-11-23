@@ -1,0 +1,3 @@
+=== WORD REPORT ===
+Title: Weekly Summary
+Content: All lab tasks completed on time.
